@@ -10,7 +10,7 @@ This project aims for partitioning an image and then compressing it based on the
 4. ⚡ **Real-time Processing:** To develop a model or framework that can be deployed for **real-time processing** of medical images for storage and transmission using **lossless ROI encoding techniques**.  
 
 
-## 🏥 Medical Image Compression: Expected Approach
+## 🏥 Expected Approach
 
 1. 🖼️ Input Image Acquisition:  
 Medical images obtained via CT or MRI scans which are in standard Digital Imaging and Communications in Medicine (DICOM) format is used.
